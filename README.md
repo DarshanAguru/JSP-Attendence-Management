@@ -4,12 +4,12 @@ The Attendance Management system provides a GUI for entering the attendance data
 The students page has only view access while the admin page has create, edit, update and remove access. 
 This performs basic CRUD operations. Uses the Java Bean class to encapsulate the data. It works on the local MySQL database (using XAMPP) and TOMCAT server.
 
-## Features
+## 🆕 Features
 
 - Separate Student and Admin page.
 - GUI-based CRUD operations.
 
-## Technologies used
+## 💻 Technologies used
 
 - HTML
 - CSS
